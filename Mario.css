@@ -1,3 +1,5 @@
-body {
-    background-image: url("testimg.png");
+body{
+background-image: url("testImg.png");
+//background-color:lightgray;
+font-size:15px
 }
